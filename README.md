@@ -53,15 +53,16 @@ Exploring CI/CD pipelines
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavleo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavleo&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavleo&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abhinavleo&theme=tokyonight)
-
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavleo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=abhinavleo&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhinavleo&theme=tokyonight)
+
 
 ## 👀 Profile Views
 

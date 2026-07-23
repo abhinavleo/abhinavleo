@@ -1,63 +1,30 @@
+<h1 align="center">Hi 👋, I'm Abhinav T</h1>
+
+<h3 align="center">
+🚀 Aspiring DevOps & Cloud Engineer | AWS | Linux | Bash | Docker | Kubernetes
+</h3>
+
+<p align="center">
+Passionate about learning DevOps, cloud technologies, and building real-world projects.
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhinav T**, an aspiring **DevOps & Cloud Engineer**.
+I'm **Abhinav T**, an aspiring **DevOps & Cloud Engineer**.
 
-I enjoy working with:
-- 🐧 Linux
-- ☁️ AWS
-- 🖥️ Bash Scripting
-- 🌐 Nginx
-- 🐳 Docker
-- 📦 Git & GitHub
+I enjoy learning Linux, AWS, Bash scripting, Docker, Git, and modern DevOps tools by building practical projects.
 
----
-
-## 📚 Currently Learning
-
-- Linux Administration
-- AWS Cloud Services
-- Bash Scripting & Automation
-- Docker
-- Kubernetes
-- CI/CD Pipelines
-- AI-Assisted DevOps Workflows
+- 🌱 Currently learning **Docker, Kubernetes & CI/CD**
+- ☁️ Building hands-on projects using **AWS EC2, IAM & S3**
+- 💻 Practicing **Linux, Bash, Git, GitHub & Nginx**
+- 🚀 Completed React deployment, Bash automation and Linux Health Check projects
+- 📚 Learning something new every day to improve my DevOps skills
+- 📫 **Email:** abhinav1712003@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
-
-- Linux (Ubuntu)
-- AWS EC2, IAM, S3
-- Git & GitHub
-- Bash
-- Nginx
-- HTML, CSS, JavaScript
-- React
-- VS Code
-- Claude Code
-
----
-
-## 🚀 Projects
-
-- ✅ React App Deployment on AWS EC2 with Nginx
-- ✅ Linux Health Check Automation using Bash
-- ✅ AI-Assisted Linux Incident Triage Workflow
-- ✅ Bash Automation Scripts
-
----
-
-## 📖 Currently Working On
-
-- More DevOps Projects
-- Docker & Kubernetes
-- Improving Bash Scripting
-- Learning CI/CD Pipelines
-
----
-
-## 📫 Connect With Me
+### 🔗 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/abhinav-t-210682296/
-
-📧 Email: abhinav1712003@gmail.com

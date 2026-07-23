@@ -51,17 +51,6 @@ Exploring CI/CD pipelines
 
 📧 Email: abhinav1712003@gmail.com
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavleo&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavleo&layout=compact&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=abhinavleo&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abhinavleo&theme=tokyonight)
 
 
 ## 👀 Profile Views

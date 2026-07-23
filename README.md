@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abhinav T</h1>
+# Hey there! 👋
 
-<h3 align="center">
-🚀 Aspiring DevOps & Cloud Engineer | AWS | Linux | Bash | Docker | Kubernetes
-</h3>
+I'm **Abhinav T**, an aspiring **DevOps & Cloud Engineer** from India.
 
-<p align="center">
-Passionate about learning DevOps, cloud technologies, and building real-world projects.
-</p>
+I enjoy learning new technologies by building projects instead of just reading about them. Every assignment helps me understand Linux, AWS, Bash scripting, and cloud concepts a little better.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 What I'm Learning
 
-I'm **Abhinav T**, an aspiring **DevOps & Cloud Engineer**.
-
-I enjoy learning Linux, AWS, Bash scripting, Docker, Git, and modern DevOps tools by building practical projects.
-
-- 🌱 Currently learning **Docker, Kubernetes & CI/CD**
-- ☁️ Building hands-on projects using **AWS EC2, IAM & S3**
-- 💻 Practicing **Linux, Bash, Git, GitHub & Nginx**
-- 🚀 Completed React deployment, Bash automation and Linux Health Check projects
-- 📚 Learning something new every day to improve my DevOps skills
-- 📫 **Email:** abhinav1712003@gmail.com
+- Linux Administration
+- AWS Cloud
+- Bash Scripting
+- Docker
+- Kubernetes
+- CI/CD Basics
 
 ---
 
-### 🔗 Connect With Me
+## 🛠️ Skills
 
-💼 LinkedIn: https://www.linkedin.com/in/abhinav-t-210682296/
+**Cloud:** AWS EC2, IAM, S3
+
+**DevOps:** Linux, Git, GitHub, Bash, Nginx
+
+**Programming:** HTML, CSS, JavaScript, React
+
+**Tools:** VS Code, Git Bash, Claude Code
+
+---
+
+## 📂 Projects I've Built
+
+- React App Deployment on AWS EC2
+- Bash Script Automation
+- Linux Health Check Script
+- AI-Assisted Linux Incident Triage
+- Static Website Hosting
+
+---
+
+## 🎯 Current Goal
+
+I'm improving my DevOps skills by working on hands-on projects every week and learning how real production systems work.
+
+---
+
+## 📫 Reach Me
+
+📧 **Email:** abhinav1712003@gmail.com
+
+💼 **LinkedIn:** www.linkedin.com/in/abhinav-t-210682296
